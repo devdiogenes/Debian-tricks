@@ -1,0 +1,1 @@
+In the Debian installation, the system ask you a root password. If you set it, sudo command will not work, but don't worry. You just need to type "su root" command, and type your password, then you can type the command you want to run, without type the "sudo" word. 
